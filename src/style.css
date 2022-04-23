@@ -9,3 +9,35 @@
 body {
   background-color: var(--body-color);
 }
+
+h1 {
+  text-align: center;
+  margin-top: 30px;
+  font-family: var(--head-font-family);
+  font-size: 60px;
+  font-weight: 700;
+}
+
+p {
+  text-align: center;
+  margin: 20px 200px 10px 200px;
+  font-family: var(--paragraph-font-family);
+}
+
+img {
+  display: block;
+  border-radius: 10px;
+  margin: 30px auto;
+}
+
+.link-croissant {
+  text-decoration: none;
+  color: black;
+  font-weight: 700;
+}
+
+.link-croissant:hover {
+  text-decoration: underline;
+  color: brown;
+  font-size: 17px;
+}
