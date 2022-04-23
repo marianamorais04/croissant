@@ -1,0 +1,11 @@
+:root {
+  --body-color: rgb(253, 234, 171);
+  --secudary-color: rgb(216, 187, 93);
+  --link-color: white;
+  --head-font-family: georgia;
+  --paragraph-font-family: monospace;
+}
+
+body {
+  background-color: var(--body-color);
+}
